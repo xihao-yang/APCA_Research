@@ -1,0 +1,650 @@
+{
+  "sources": [
+    {
+      "repository": "xihao-yang/AI_Research",
+      "branch": "main",
+      "commit": "f52767d5f9f8134c702882f5159eda5993060e88"
+    },
+    {
+      "repository": "xihao-yang/Paper_close_Reading",
+      "branch": "main",
+      "commit": "3b3dca6e17417323298bccc42cd4b3a26504035b"
+    },
+    {
+      "repository": "xihao-yang/Meeting-minutes-Reflections",
+      "branch": "main",
+      "commit": "428cf1520e2de5de708a2d6c11832b90c80fa656"
+    },
+    {
+      "repository": "xihao-yang/Defects4J",
+      "branch": "main",
+      "commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba"
+    }
+  ],
+  "files": [
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APCA/Prototype&Attention_A.md",
+      "destination_path": "docs/prototype/Prototype&Attention_A.md",
+      "git_blob_sha": "a9262927d1ed11a48f8992968ff652f96610d60c",
+      "sha256": "852aad64cfaebe88f6ca3cd41883f8121291af284b0c1b253fb988c993835f69"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APCA/Prototype&Attention_AVATAR.md",
+      "destination_path": "docs/prototype/Prototype&Attention_AVATAR.md",
+      "git_blob_sha": "5a807a1be04abf1f97dd64e9f9d2f1c5408e1cec",
+      "sha256": "2c1248ee7e5d80838980b68b9d3cfa17da63b49f1dae2bdb672d7b97db345ceb"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APCA/Prototype&Attention_BorderArrangement.md",
+      "destination_path": "docs/prototype/Prototype&Attention_BorderArrangement.md",
+      "git_blob_sha": "3df855c4e45c09e029bdb463216d7b23d722ef77",
+      "sha256": "bc27ea5747dd17d6523db4bdd67fe238beec062849e6851cf78cdff5a857df5f"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APCA/readme.md",
+      "destination_path": "docs/prototype/README.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APR/Demo/correct_main_check.log",
+      "destination_path": "experiments/chart-13/demo/correct_main_check.log",
+      "git_blob_sha": "51a28785a9f1dc4398f5a10329cb5181e2af0fd6",
+      "sha256": "7a3b059b9112e20e831668317e4d282a26b448444e77c631fa6fd7a3990fa42f"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APR/Demo/overfitting_main_check.log",
+      "destination_path": "experiments/chart-13/demo/overfitting_main_check.log",
+      "git_blob_sha": "29dd46fe5b4a028eccad474d703a634c7b1c7ee9",
+      "sha256": "45bd674d8ce87a9408fd92d4e1d39561071176fb2ca437c28727ff3686e7db5b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APR/Demo/readme.md",
+      "destination_path": "experiments/chart-13/demo/README.md",
+      "git_blob_sha": "c2297afe8db33b80e26197d1e1137249898902c1",
+      "sha256": "e8a9ec0b7484ba914ad8c182edb07225daf96f974838a662f1a63e241bbeb12d"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "APR/readme.md",
+      "destination_path": "papers/APR/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/Docs/.gitkeep",
+      "destination_path": "experiments/codebert/Docs/.gitkeep",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/README.md",
+      "destination_path": "experiments/codebert/README.md",
+      "git_blob_sha": "7913aca639916603b473ae05485d5894ac30b745",
+      "sha256": "61d37732049b9be94cf1fb975aecf4b960de68375a665b1938b61a959db2b594"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/code/config.py",
+      "destination_path": "experiments/codebert/code/config.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/code/data_utils.py",
+      "destination_path": "experiments/codebert/code/data_utils.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/code/train.py",
+      "destination_path": "experiments/codebert/code/train.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/experiments/exp_20260316_init/log.txt",
+      "destination_path": "experiments/codebert/experiments/exp_20260316_init/log.txt",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/experiments/exp_20260316_init/notes.md",
+      "destination_path": "experiments/codebert/experiments/exp_20260316_init/notes.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/experiments/exp_20260316_init/params.md",
+      "destination_path": "experiments/codebert/experiments/exp_20260316_init/params.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "CodeBERT/experiments/exp_20260316_init/results/.gitkeep",
+      "destination_path": "experiments/codebert/experiments/exp_20260316_init/results/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/.gitignore",
+      "destination_path": "experiments/defects4j/workspace/.gitignore",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/Docs/.gitkeep",
+      "destination_path": "experiments/defects4j/workspace/Docs/.gitkeep",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/README.md",
+      "destination_path": "experiments/defects4j/workspace/README.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/code/config.py",
+      "destination_path": "experiments/defects4j/workspace/code/config.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/code/data_utils.py",
+      "destination_path": "experiments/defects4j/workspace/code/data_utils.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/code/train.py",
+      "destination_path": "experiments/defects4j/workspace/code/train.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/experiments/exp_20260316_init/log.txt",
+      "destination_path": "experiments/defects4j/workspace/experiments/exp_20260316_init/log.txt",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/experiments/exp_20260316_init/notes.md",
+      "destination_path": "experiments/defects4j/workspace/experiments/exp_20260316_init/notes.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/experiments/exp_20260316_init/params.md",
+      "destination_path": "experiments/defects4j/workspace/experiments/exp_20260316_init/params.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Defects4J/experiments/exp_20260316_init/results/.gitkeep",
+      "destination_path": "experiments/defects4j/workspace/experiments/exp_20260316_init/results/.gitkeep",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "README.md",
+      "destination_path": "docs/migration/original-readmes/AI_Research.md",
+      "git_blob_sha": "9a485ea14f885bfc389c50acadb961af67ed3e77",
+      "sha256": "f1e79d93bd4a1baae6a4e1e3c8e7ab29ea4f837a2e0acbb4d392dd1578017215"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reflections/APR_CEAP_research_plan_review.md",
+      "destination_path": "reflections/APR_CEAP_research_plan_review.md",
+      "git_blob_sha": "39a1d97db7dee4ec2d33b199fd4224efd3a82552",
+      "sha256": "03d894c42ad7401dec627bb614f5cbe7d2e9d2c8a25385b40296b910d1b55bd0"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reflections/about.md",
+      "destination_path": "reflections/about.md",
+      "git_blob_sha": "1ba585cf5229aa50c944660e89d11969a8fbc7e6",
+      "sha256": "4c20c079062c72a3d19df7da2c1fcf12f23a2d82a8867384ced6ceaa9ac32dc3"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v1_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v1_CN.md",
+      "git_blob_sha": "ed38ac45d9277c4d04d9c1980e77006f07bf308c",
+      "sha256": "6b7c83123c5d1581504313694c7b05cd6600d4d977c14df929e416c4b6d36aad"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v2_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v2_CN.md",
+      "git_blob_sha": "c50fe7fe39c40454bb0530a772502ccca44566ad",
+      "sha256": "bd46d57d3eaf9903eb6e4caeab9c94f2eed118b1fadfbc0f270dec3fff139151"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v3_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v3_CN.md",
+      "git_blob_sha": "768203f85029a7c5f5e0f5fdf930950b38a1a7ce",
+      "sha256": "22dcc4111d69b1b7e74ccec3ab2a8cc0de62c9f751228e47173901cb0e3390fc"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v4_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v4_CN.md",
+      "git_blob_sha": "e660b1259e7e23cc35d4cf1f9153ddc5e873350c",
+      "sha256": "53c36d1756104812d7d382fe8362431272c51829a0315590add0bb0d591aa2f9"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v5_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v5_CN.md",
+      "git_blob_sha": "c68a73a0d646b08ecf440e7cb9ae12a99ffe2490",
+      "sha256": "deba3cb5dcb027fb4cd2449a9e5da46431ce80efb5d75d484bd0435bc771108b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/CACHE_v6_CN.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/CACHE_v6_CN.md",
+      "git_blob_sha": "8e096dbb2a88bb00b886e1d836bb397904306c70",
+      "sha256": "2b5d0a85351676088981c1ccfe5b6419f34560500ff2291f0fe5d156f1cd95ce"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/CN/about.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/CN/about.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/Reflections/EN/About.md",
+      "destination_path": "experiments/reproduction/CACHE/Reflections/EN/About.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/TOSEM-21.pdf",
+      "destination_path": "papers/CACHE/TOSEM-21.pdf",
+      "git_blob_sha": "fa9170b71f770015602f3e027d4aef4963d81747",
+      "sha256": "f08cad8cec9b8c05261ca040ad030462c187a220afa5ba80aed06e2d60b04c38"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/logs/run_apply_failed_v3.log",
+      "destination_path": "experiments/reproduction/CACHE/logs/run_apply_failed_v3.log",
+      "git_blob_sha": "3d863ec0d66a8ddbcc381c5bac82527602e329e7",
+      "sha256": "3e5e0a8283a34bdd2f3fd944f2fb9de8b37c07b1e7e657d48028ad0e75e193f7"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/logs/run_latest_stage_success._v1log",
+      "destination_path": "experiments/reproduction/CACHE/logs/run_latest_stage_success._v1log",
+      "git_blob_sha": "cf93e17483613ef48a7d6536d9a80a9c8b561715",
+      "sha256": "bcefe3b1290dc301b570a5e76f715394a42727c1f1d1169a276a347f4f7618cb"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/logs/run_patch_exception_v3.log",
+      "destination_path": "experiments/reproduction/CACHE/logs/run_patch_exception_v3.log",
+      "git_blob_sha": "e9c1e8c350ec089ec7d68d45cf841bb8c8d357a6",
+      "sha256": "d1c15a9d16febb6ac7a876411816989a811f99e2f4d90b05cdd75020e180cb9b"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/logs/run_stats_v3.log",
+      "destination_path": "experiments/reproduction/CACHE/logs/run_stats_v3.log",
+      "git_blob_sha": "eaed06ed1eb2f0281673735fa05b09262650ead1",
+      "sha256": "3a5dfa6a558321096464858ff18aeb6ea19d20767d28cdb3ca43baae7be8d9d1"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/readme.md",
+      "destination_path": "experiments/reproduction/CACHE/README.md",
+      "git_blob_sha": "ae52ea7c1dba9bc39d18bb298343aa999fecd824",
+      "sha256": "cab867004d785ca6c4b846e24b253579ace88228fdd5e6800ff928e68a497ea9"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/results_v1.json",
+      "destination_path": "experiments/reproduction/CACHE/results_v1.json",
+      "git_blob_sha": "127f79c763582242c238ad06475c0d64d30b178a",
+      "sha256": "8a31e5adbc81ddb19aa3663fd7f60bb2867fada6c3b24a98f90c67c5752f3836"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/snapshots/genOverfittingPatches_v1.py.stage_success",
+      "destination_path": "experiments/reproduction/CACHE/snapshots/genOverfittingPatches_v1.py.stage_success",
+      "git_blob_sha": "219f57f5291f4fc36996446e423c70b5220aa376",
+      "sha256": "5c61b5821b75f89605afde4948772487aa3bbb26d50beedc6a0908419ed5a5f4"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CACHE/snapshots/genOverfittingPatches_v3.py.stage_stats",
+      "destination_path": "experiments/reproduction/CACHE/snapshots/genOverfittingPatches_v3.py.stage_stats",
+      "git_blob_sha": "61a1d15e07f50821579ce5deca120cc73b5611d6",
+      "sha256": "5cb6a60bb34e6cf3e2bccc9f2d0174b9d5e58ea814645bda6d0ca0af71f3ced7"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/CHATASSERT/About.md",
+      "destination_path": "experiments/reproduction/CHATASSERT/About.md",
+      "git_blob_sha": "94ec942f13c17387eefe63de3421fa216adb3b77",
+      "sha256": "7d20024da18ce2adc9152fbbc81cba4ac775acbe9b24d5da92f0954bf406b763"
+    },
+    {
+      "source_repository": "xihao-yang/AI_Research",
+      "source_commit": "f52767d5f9f8134c702882f5159eda5993060e88",
+      "source_path": "Reproduction/Readme.md",
+      "destination_path": "experiments/reproduction/README.md",
+      "git_blob_sha": "df7846cc600cd7872c4a29ac502b436a31c6d610",
+      "sha256": "eb8aca767392aa5b8696791e9f6dfce31aec545f9bbd8a22e974d9e2eb9ae6d6"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/APPT/APPT.md",
+      "destination_path": "papers/APPT/APPT.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/APPT/APPT_paper.pdf",
+      "destination_path": "papers/APPT/APPT_paper.pdf",
+      "git_blob_sha": "3e8f35f918c5129c0384c3193dd6636092b365b3",
+      "sha256": "eb46069aa84ee4d2c53a7c7fda4d3acf9390f6e1177007e78daa952f42e1c24f"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/APPT/readme.md",
+      "destination_path": "papers/APPT/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/CACHE/TOSEM-21.pdf",
+      "destination_path": "papers/CACHE/TOSEM-21.pdf",
+      "git_blob_sha": "fa9170b71f770015602f3e027d4aef4963d81747",
+      "sha256": "f08cad8cec9b8c05261ca040ad030462c187a220afa5ba80aed06e2d60b04c38"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/CACHE/readme.md",
+      "destination_path": "papers/CACHE/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APCA/readme.md",
+      "destination_path": "papers/APCA/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "APR/readme.md",
+      "destination_path": "papers/APR/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "Attention_is_all_you_need/readme.md",
+      "destination_path": "papers/background/Attention_is_all_you_need/README.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "CHATASSERT/CHATASSERT.md",
+      "destination_path": "papers/CHATASSERT/CHATASSERT.md",
+      "git_blob_sha": "70be07a09c3e231811282b0bab24dacaacacb1be",
+      "sha256": "97343eb122ad2af53de46361e915b77ea1d21a3bb9b7f3e6ccae481192042258"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "CHATASSERT/readme.md",
+      "destination_path": "papers/CHATASSERT/notes.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "Calibration Across Layers/about.md",
+      "destination_path": "papers/background/Calibration Across Layers/about.md",
+      "git_blob_sha": "9578168375febc24a4390db5eefbc12cf2f63b32",
+      "sha256": "726e0e53f15ae0bdc66faca9cc81f88a504401eaf58d7d5e07ad0345d3dd7bc6"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "Calibration_Layer/raedme.md",
+      "destination_path": "papers/background/Calibration_Layer/raedme.md",
+      "git_blob_sha": "9578168375febc24a4390db5eefbc12cf2f63b32",
+      "sha256": "726e0e53f15ae0bdc66faca9cc81f88a504401eaf58d7d5e07ad0345d3dd7bc6"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "LICENSE",
+      "destination_path": "docs/migration/licenses/Paper_close_Reading-LICENSE",
+      "git_blob_sha": "b4434e0c91b26d1f524b6e47b670a7648ffabf43",
+      "sha256": "6dbc733f66b607ad6ec97626e7e6b454f4bcfc111e629141e4223170ddff4fdd"
+    },
+    {
+      "source_repository": "xihao-yang/Paper_close_Reading",
+      "source_commit": "3b3dca6e17417323298bccc42cd4b3a26504035b",
+      "source_path": "README.md",
+      "destination_path": "docs/migration/original-readmes/Paper_close_Reading.md",
+      "git_blob_sha": "74a22b5dd2bb2b0a6f865199f99d61111f995d85",
+      "sha256": "0777763dc15be9efb49d084932ed50a8be16c838c35fa4518412324facec9368"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "July 2th/readme.md",
+      "destination_path": "meetings/2026-07/2026-07-02/README.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "July7th/readme.md",
+      "destination_path": "meetings/2026-07/2026-07-07/README.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "June 11th/Meeting.md",
+      "destination_path": "meetings/2026-06/2026-06-11/Meeting.md",
+      "git_blob_sha": "4b51d644bdf73d201a21f3dc98b63b3dddfc48de",
+      "sha256": "121da4735106e9c915d573eed1e04e140ef1785e659c0c71857c5fefb380d085"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "June 16th/about.md",
+      "destination_path": "meetings/2026-06/2026-06-16/about.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "June25th/readme.md",
+      "destination_path": "meetings/2026-06/2026-06-25/README.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "LICENSE",
+      "destination_path": "docs/migration/licenses/Meeting-minutes-Reflections-LICENSE",
+      "git_blob_sha": "b4434e0c91b26d1f524b6e47b670a7648ffabf43",
+      "sha256": "6dbc733f66b607ad6ec97626e7e6b454f4bcfc111e629141e4223170ddff4fdd"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "May 12th/About.md",
+      "destination_path": "meetings/2026-05/2026-05-12/About.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Meeting-minutes-Reflections",
+      "source_commit": "428cf1520e2de5de708a2d6c11832b90c80fa656",
+      "source_path": "README.md",
+      "destination_path": "docs/migration/original-readmes/Meeting-minutes-Reflections.md",
+      "git_blob_sha": "4e30ccf2abc82ace54c0a85f56ab9e1fffdca745",
+      "sha256": "b9b2f3594449626cc97b9e50698752f2960086d0c302bb1ab2c09ebc3cda4951"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "README.md",
+      "destination_path": "docs/migration/original-readmes/Defects4J.md",
+      "git_blob_sha": "c781a7cf2917078057c6bed34ca9f8aa86b1ccae",
+      "sha256": "15304e60b588a7d69f7d9cc0bceeb753826a4427eb1034bf15b9bcb528725a60"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "Reflections/12.16_running.md",
+      "destination_path": "experiments/defects4j/legacy/Reflections/12.16_running.md",
+      "git_blob_sha": "51e00715cd743b7c667a829195af961856601500",
+      "sha256": "dc6342273a438a7604d108b9ac923216ea5acd1ab262e6d5e21d03ae900daabd"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "Reflections/12.21_results.md",
+      "destination_path": "experiments/defects4j/legacy/Reflections/12.21_results.md",
+      "git_blob_sha": "59a7c8645890ce44c3116fc73995a8b32ebe8bd6",
+      "sha256": "7d68082492dc8be38e59e1a2ffe2da6b5c3eaef54bb89c4fae6c8f983b55bde3"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "Reflections/about.md",
+      "destination_path": "experiments/defects4j/legacy/Reflections/about.md",
+      "git_blob_sha": "2ab7482699264f2e99562634a23d4e7766e5bf13",
+      "sha256": "f285bd892902492e6bd66007669a6d883893b426c5c2ea6da078dedcd3bf0507"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "Results/about.md",
+      "destination_path": "experiments/defects4j/legacy/Results/about.md",
+      "git_blob_sha": "cd444be20223e972a3cebba6e01cf7c0efe80287",
+      "sha256": "fcfa1746fe2e0a77e5d1317f1400adb3a3647044756c63e11ccc20365b79883b"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "configs/about.md",
+      "destination_path": "experiments/defects4j/legacy/configs/about.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "source_repository": "xihao-yang/Defects4J",
+      "source_commit": "e1f7e1e3146fb3d58f2fc7f71c787a899cce44ba",
+      "source_path": "scripts/about.md",
+      "destination_path": "experiments/defects4j/legacy/scripts/about.md",
+      "git_blob_sha": "8b137891791fe96927ad78e64b0aad7bded08bdc",
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    }
+  ]
+}
