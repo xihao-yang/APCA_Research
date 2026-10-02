@@ -32,6 +32,16 @@ The prototype records manually designed, patch-targeted behavior probes. It does
 
 ## Organization
 
+| Path | Purpose |
+| --- | --- |
+| [papers/](papers/README.md) | APR, APCA, CACHE, APPT, CHATASSERT, and PRISM reading |
+| [experiments/](experiments/) | Defects4J, Chart-13, reproduction, and CodeBERT work |
+| [scripts/](scripts/README.md) | Shared runners and analysis scripts |
+| [results/](results/README.md) | Consolidated summaries and links to existing results |
+| [meetings/](meetings/README.md) | Records grouped under 2026-05, 2026-06, and 2026-07 |
+| [reflections/](reflections/) | Research reflections |
+| [docs/](docs/) | [Research plan](docs/research-plan.md), [methodology](docs/methodology.md), and [experiment design](docs/experiment-design.md) |
+
 Paper PDFs and reading notes belong in `papers/`. Experiment code, logs, and reproduction records belong in `experiments/`. Meeting records belong in `meetings/`, and research reflections belong in `reflections/`.
 
 See [migration notes](docs/migration/README.md) for source revisions and the file mapping. Original licenses are retained with their source material; paper PDFs remain subject to their respective authors' and publishers' rights.
